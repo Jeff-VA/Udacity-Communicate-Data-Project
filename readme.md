@@ -30,7 +30,7 @@ This project is still in process.
 
 * https://www.udacity.com/course/data-analyst-nanodegree--nd002
 
-###### Sources code reference:
+###### Sources used for code reference:
 
 * Python Standard Library: https://docs.python.org/3/library/
 * Pandas Library: https://pandas.pydata.org/pandas-docs/stable/
