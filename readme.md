@@ -37,6 +37,3 @@ This project is still in process.
 * Matplotlib Library: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html
 * Seaborn Library: https://seaborn.pydata.org/
 
-
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://https://github.com/Jeff-VA/communicate_data_project/blob/master/slide_deck.slides.html]' width='100%' height='600px' frameborder='0'>
-
