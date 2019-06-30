@@ -11,7 +11,7 @@ This project is still in process.
 
 ### Files used
 
-* in process
+* [in process](https://github.com/Jeff-VA/communicate_data_project/blob/master/slide_deck.slides.html)
 
 ### Programs and required packages to execute code
 
