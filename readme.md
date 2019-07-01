@@ -9,7 +9,7 @@ This exploration of 113,937 loan observations demonstrates the power of python c
 
 Below is a link to a slideshow presentation of the eplanitory visualizations found in the Prosper loan data:
 
-[The Influence of Prosper Loan Data on Borrower APR](https://jeff-va.github.io/communicate_data_project/slide_deck.slides.html#/7/1)
+![The Influence of Prosper Loan Data on Borrower APR](https://jeff-va.github.io/communicate_data_project/slide_deck.slides.html#/7/1)
 
 ### Additional Project Files
 
