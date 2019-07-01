@@ -13,9 +13,9 @@ Below is a link to a slideshow presentation of the eplanitory visualizations fou
 
 ### Additional Project Files
 
-* [Data Exploration Notebook](https://jeff-va.github.io/communicate_data_project/exploration_v2.ipynb)
-* [Slide Deck Notebook](https://jeff-va.github.io/communicate_data_project/slide_deck.ipynb)
-* [Summary of Findings](https://jeff-va.github.io/communicate_data_project/project_summary.md)
+* [Data Exploration Notebook](https://github.com/Jeff-VA/communicate_data_project/blob/master/exploration_v2.ipynb)
+* [Slide Deck Notebook](https://github.com/Jeff-VA/communicate_data_project/blob/master/slide_deck.ipynb)
+* [Summary of Findings](https://github.com/Jeff-VA/communicate_data_project/blob/master/project_summary.md)
 
 ### Programs and required packages to execute code
 
